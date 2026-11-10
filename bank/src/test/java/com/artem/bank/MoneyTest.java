@@ -1,6 +1,6 @@
 package com.artem.bank;
 
-import com.artem.bank.entity.Money;
+import com.artem.bank.model.Money;
 import com.artem.bank.exceptions.InsufficientFundsException;
 import org.junit.jupiter.api.Test;
 

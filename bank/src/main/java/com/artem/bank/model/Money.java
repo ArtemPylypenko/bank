@@ -1,4 +1,4 @@
-package com.artem.bank.entity;
+package com.artem.bank.model;
 
 import com.artem.bank.exceptions.InsufficientFundsException;
 

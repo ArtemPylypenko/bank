@@ -1,6 +1,6 @@
 package com.artem.bank;
 
-import com.artem.bank.entity.Result;
+import com.artem.bank.model.Result;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

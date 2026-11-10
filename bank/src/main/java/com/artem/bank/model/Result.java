@@ -1,4 +1,4 @@
-package com.artem.bank.entity;
+package com.artem.bank.model;
 
 import java.util.Objects;
 
